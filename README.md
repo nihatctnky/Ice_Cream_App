@@ -25,5 +25,9 @@ TDD (Test Driven Development):
 * Redux-mock-store
 * Jest
 
+# Ekran Gif
+
+![Video Screen1737322254165 (1)](https://github.com/user-attachments/assets/2700a17b-f56f-4e7f-8078-794e8ba9ae7f)
+
 
 
